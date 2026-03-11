@@ -1,3 +1,6 @@
+Portal ID: ICP-2026-REF
+Repo ID: REPO-INTERNAL
+
 # sales-dashboard-analysis
 Interactive sales performance dashboard built using Power BI
 
